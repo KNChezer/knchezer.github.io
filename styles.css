@@ -1,5 +1,5 @@
 @import url(http://fonts.googlapis.com./css?family=montserrat:400,700);
-
+  
 body {
   color: #555;
   margin: 0;
@@ -123,3 +123,4 @@ p {
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
+
